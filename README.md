@@ -1,2 +1,1 @@
-loadstring(gameHttpGet(https://raw.githubusercontent.com/ADSKerOfficalBendymainBendyHubX))
-()
+loadstring(gameHttpGet(https://raw.githubusercontent.com/ADSKerOfficalBendymainBendyHubX)
